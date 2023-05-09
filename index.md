@@ -1,6 +1,6 @@
 Meu nome é Victoria Borges, moro em Brasilía, tenho 26 anos, sou natural de Belém. 
 Eu estou solteira e não tenho filhos. Desejei ser desenvolvedora de app
-Fiz barbearia mas tenho um apresso por tecnologia também. 
+fiz barbearia mas tenho um apresso por tecnologia também. 
 Trabalhei com politica mas meu real interesse era em tecnologia
 
 Recebi uma educação muito boa de meus pais, sempre respeitando os mais velhos. 
