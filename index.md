@@ -1,22 +1,123 @@
-Meu nome é Victoria Borges, moro em Brasilía, tenho 26 anos, sou natural de Belém. 
-Eu estou solteira e não tenho filhos. Desejei ser desenvolvedora de app
-fiz barbearia mas tenho um apresso por tecnologia também. 
-Trabalhei com politica mas meu real interesse era em tecnologia
+---
+layout: default
+---
 
-Recebi uma educação muito boa de meus pais, sempre respeitando os mais velhos. 
-sempre correndo atrás dos meus objetivos. 
-Aprendi que nada na vida vem tão facilmente e que o trabalho, a boa educação e o 
-respeito ao próximo fazem de nós pessoas melhores.
- 
-Eu precisava me superar todos os dias: rotina puxada, fazer dois cursos. 
-Aos poucos fui aprendendo a construir e manter as relações de amizade e as profissionais também. 
-Tornei-me bastante comunicativa e percebi que havia me superado.
- 
-Hoje, sigo buscando ser uma profissional melhor e continuo me capacitando. 
-Não sou uma pessoa perfeita, mas estou todo o tempo buscando melhorar. 
-Afinal, sabemos que o amadurecimento vem com o tempo e com as experiências, e eu sempre busco aprender com as minhas.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Valorizo muito a minha família e, ainda mais, os momentos que passo com ela. Ela é um pilar importante na minha formação, 
-na minha educação e no meu dia a dia. Eu sei o quanto é importante lutar pelo que queremos e sonhamos, 
-faço isso todos os dias. Hoje me descobri uma pessoa determinada, focada, forte e persistente, 
-lutando sempre por melhores oportunidades.
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
